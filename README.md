@@ -26,6 +26,23 @@ rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=28&subtype=1
 rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=29&subtype=1
 rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=30&subtype=1 
 
+nvr2
+
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=2&subtype=1
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=2&subtype=1
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=3&subtype=1
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=4&subtype=1
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=5&subtype=1  
+
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=10&subtype=1 
+rtsp://admin:bes75094900@220.132.212.238:82/cam/realmonitor?channel=11&subtype=1  
+
+
+
+
+
+
+
 
 
 
