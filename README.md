@@ -20,6 +20,8 @@ rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=21&subtype=1
 rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=22&subtype=1
 rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=23&subtype=1
 rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=25&subtype=1 
+rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=26&subtype=1
+rtsp://admin:bes75094900@220.132.212.238:81/cam/realmonitor?channel=27&subtype=1 
 
 
 
